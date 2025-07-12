@@ -38,7 +38,7 @@
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/DavidMakwetta/snk/output/github-contribution-grid-snake-ocean.gif" />
+<img src="https://raw.githubusercontent.com/DavidMakwetta/snk/output/github-contribution-grid-snake-dark.svg" />
 
 
 
