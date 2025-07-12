@@ -21,7 +21,9 @@
   <img alt="Scratch" src="https://img.shields.io/badge/-Scratch-FFAB19?style=flat-square&logo=scratch&logoColor=white" height="30" />
 </p>
 
-<h3> <center> My GitHub Contributions Summary</center></h3>
+<div align="center">
+  <h3>My GitHub Contributions Summary</h3>
+</div>
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=DavidMakwetta&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="GitHub Streak" />
