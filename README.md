@@ -42,8 +42,11 @@
 
 <h3>How to reach me: </h3>
 [![Email](https://img.shields.io/badge/Email-davidmakwetta@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:davidmakwetta@gmail.com)  
+
 [![Twitter](https://img.shields.io/badge/Twitter-@yourtwitterhandle-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Makwetta-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+
 [![Website](https://img.shields.io/badge/Website-yourwebsite.com-4AB197?style=flat-square&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
 
 
