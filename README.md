@@ -48,9 +48,8 @@
 
 <h3>Contact Me</h3>
 
-<p>
-  <a href="mailto:davidmakwetta@gmail.com" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="24" style="vertical-align: middle; margin-right: 8px;" />
-    <span style="font-size: 16px; vertical-align: middle; color: #333;">davidmakwetta@gmail.com</span>
+<p align="center">
+  <a href="mailto:davidmakwetta@gmail.com">
+    <img src="https://img.shields.io/badge/-davidmakwetta@gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </p>
