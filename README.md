@@ -1,5 +1,5 @@
-👋 Hi there, I'm David Makwetta
-    Embedded Systems / FrontEnd Developer
+<h3> 👋 Hi there, I'm David Makwetta </h3>
+<h3>  Embedded Systems / FrontEnd Developer </h3>
 
 ![Profile views](https://komarev.com/ghpvc/?username=DavidMakwetta&color=blue)
 
