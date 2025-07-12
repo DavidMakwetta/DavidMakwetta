@@ -1,4 +1,6 @@
-👋 Hi, I'm @DavidMakwetta
+👋 Hi there, I'm David Makwetta
+
+![Profile views](https://komarev.com/ghpvc/?username=DavidMakwetta&color=blue)
 
 👨‍💻 About me: Passionate software developer and mentor dedicated to empowering others through teaching.
 
