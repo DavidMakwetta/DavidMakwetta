@@ -49,6 +49,8 @@
 <h3>Contact Me</h3>
 
 <p>
+  
   <img src="https://img.icons8.com/ios-filled/24/000000/email.png" alt="email icon" style="vertical-align: middle; margin-right: 8px;" />
+  
   <a href="mailto:davidmakwetta@gmail.com" style="font-size: 16px; color: #333; text-decoration: none;">davidmakwetta@gmail.com</a>
 </p>
