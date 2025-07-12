@@ -38,6 +38,8 @@
   </tr>
 </table>
 
+<img src="https://raw.githubusercontent.com/DavidMakwetta/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+
 
 
 
