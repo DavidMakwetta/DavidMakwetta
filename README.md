@@ -45,3 +45,12 @@
 </table>
 
 <img src="https://raw.githubusercontent.com/DavidMakwetta/snk/output/github-contribution-grid-snake-dark.svg" />
+
+<h3>Contact Me</h3>
+
+<p>
+  <a href="mailto:davidmakwetta@gmail.com" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="24" style="vertical-align: middle; margin-right: 8px;" />
+    <span style="font-size: 16px; vertical-align: middle; color: #333;">davidmakwetta@gmail.com</span>
+  </a>
+</p>
