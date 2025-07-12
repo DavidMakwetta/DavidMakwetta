@@ -46,11 +46,3 @@
 
 <img src="https://raw.githubusercontent.com/DavidMakwetta/snk/output/github-contribution-grid-snake-dark.svg" />
 
-<h3>Contact Me</h3>
-
-<p>
-  
-![Email Icon](https://img.icons8.com/ios-filled/24/000000/email.png)  davidmakwetta@gmail.com
-  
-  <a href="mailto:davidmakwetta@gmail.com" style="font-size: 16px; color: #333; text-decoration: none;">davidmakwetta@gmail.com</a>
-</p>
