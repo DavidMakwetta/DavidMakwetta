@@ -48,5 +48,4 @@
 
 <h3>Contact Me</h3>
 
-[![Email](https://img.shields.io/badge/Email-davidmakwetta@gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidmakwetta@gmail.com)
-
+[![Email](https://img.shields.io/badge/-davidmakwetta@gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidmakwetta@gmail.com)
