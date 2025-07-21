@@ -30,14 +30,6 @@
 </p>
 
  <tr>
-    <td align="left">
-     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=DavidMakwetta&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true"
-    alt="GitHub Streak"
-  />
-</a>
-    </td>
     <td align="right">
       <a href="https://github.com/DavidMakwetta">
         <img src="https://github-readme-stats.vercel.app/api?username=DavidMakwetta&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e" alt="GitHub Stats" />
