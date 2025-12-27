@@ -1,6 +1,6 @@
 <h3>Hi there 👋 , I'm David Makwetta </h3>
-<h3>Embedded Systems / FrontEnd Developer / AI 
-Enthusiast </h3>
+<h3> I'm Interested in:<h3>
+<h3>Robotics | AI | FrontEnd Develop't</h3>
 
 ![Profile views](https://komarev.com/ghpvc/?username=DavidMakwetta&color=blue)
 
