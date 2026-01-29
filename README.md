@@ -41,8 +41,7 @@
       <a href="https://github.com/DavidMakwetta">
         <img
           src="https://github-readme-stats.vercel.app/api?username=DavidMakwetta&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e"
-          alt="GitHub Stats"
-        />
+          alt="GitHub Stats"/>
       </a>
     </td>
   </tr>
