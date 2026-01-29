@@ -1,4 +1,4 @@
-<img src = " https://media.tenor.com/zfyYLuBIbhkAAAAi/welcome-welcomed.gif " />
+<img src = "https://media.tenor.com/zfyYLuBIbhkAAAAi/welcome-welcomed.gif" />
 
 <img src = "https://media.tenor.com/uSG83KneGQAAAAAj/little-pills.gif" />
 
