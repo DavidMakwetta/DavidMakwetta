@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey&animation=fadeIn&type=blinking&color=blue&height=120" />
+  <img src="https://capsule-render.vercel.app/api?text=Hey!&animation=blinking&type=waving&color=gradient&height=100" />
 </p>
-
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=DavidMakwetta&color=blue)
