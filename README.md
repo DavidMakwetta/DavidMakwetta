@@ -4,6 +4,7 @@
 
 <img src = "https://media.tenor.com/uSG83KneGQAAAAAj/little-pills.gif" />
 <img src = "https://media.tenor.com/vX65AtmBy_wAAAAM/little-positivity.gif" />
+<img src = "https://media1.tenor.com/m/IbngBalmiUQAAAAd/jesus-loves-you.gif" >
 
 <img src="https://raw.githubusercontent.com/DavidMakwetta/snk/output/github-contribution-grid-snake-dark.svg" />
 
