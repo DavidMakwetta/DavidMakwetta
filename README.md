@@ -1,4 +1,7 @@
-<img src = "https://media.tenor.com/zfyYLuBIbhkAAAAi/welcome-welcomed.gif" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey!&animation=fadeIn&type=waving&color=gradient&height=110" />
+</p>
+<img src = "https://media.tenor.com/Dwg8LEA6brMAAAAM/biteable-biteableanimation.gif" />
 
 <img src = "https://media.tenor.com/uSG83KneGQAAAAAj/little-pills.gif" />
 
