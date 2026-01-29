@@ -3,7 +3,7 @@
 </p>
 <table align="center">
   <tr>
-    <td><img src="https://media.tenor.com/uSG83KneGQAAAAAj/little-pills.gif" width="200" height ="700" /></td>
+    <td><img src="https://media.tenor.com/uSG83KneGQAAAAAj/little-pills.gif"  height ="700" /></td>
     <td><img src="https://media.tenor.com/vX65AtmBy_wAAAAM/little-positivity.gif" width="200" /></td>
     <td><img src="https://media1.tenor.com/m/IbngBalmiUQAAAAd/jesus-loves-you.gif" width="200" /></td>
   </tr>
