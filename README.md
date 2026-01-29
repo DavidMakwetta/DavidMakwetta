@@ -4,7 +4,7 @@
 
 
 
-![Profile views](https://komarev.com/ghpvc/?username=DavidMakwetta&color=blue)
+
 
 <img src="https://raw.githubusercontent.com/DavidMakwetta/snk/output/github-contribution-grid-snake-dark.svg" />
 
