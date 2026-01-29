@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey!&animation=fadeIn&type=waving&color=gradient&height=100" />
+  <img src="https://capsule-render.vercel.app/api?text=Hey!&animation=fadeIn&type=waving&color=gradient&height=110" />
 </p>
 
 
-
+<img src ="https://tenor.com/p3CchqSXnKC.gif" />
 
 
 <img src="https://raw.githubusercontent.com/DavidMakwetta/snk/output/github-contribution-grid-snake-dark.svg" />
