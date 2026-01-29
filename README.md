@@ -1,10 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey!&animation=fadeIn&type=waving&color=gradient&height=110" />
 </p>
-<img src = "https://media.tenor.com/Dwg8LEA6brMAAAAM/biteable-biteableanimation.gif" />
 
 <img src = "https://media.tenor.com/uSG83KneGQAAAAAj/little-pills.gif" />
-
+<img src = "https://media.tenor.com/vX65AtmBy_wAAAAM/little-positivity.gif" />
 
 <img src="https://raw.githubusercontent.com/DavidMakwetta/snk/output/github-contribution-grid-snake-dark.svg" />
 
