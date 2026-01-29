@@ -2,8 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey!&animation=fadeIn&type=waving&color=gradient&height=110" />
 </p>
 
-
-<div class="tenor-gif-embed" data-postid="13340151227176851712" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/little-pills-pill-mintmake-sticker-gif-13340151227176851712">Little Pills Sticker</a>from <a href="https://tenor.com/search/little-stickers">Little Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src = "https://media.tenor.com/uSG83KneGQAAAAAj/little-pills.gif" />
 
 
 <img src="https://raw.githubusercontent.com/DavidMakwetta/snk/output/github-contribution-grid-snake-dark.svg" />
