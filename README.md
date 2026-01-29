@@ -1,6 +1,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey!&animation=fadeIn&type=waving&color=gradient&height=110" />
 </p>
+<table align="center">
+  <tr>
+    <td><img src="https://media.tenor.com/uSG83KneGQAAAAAj/little-pills.gif" width="150" /></td>
+    <td><img src="https://media.tenor.com/vX65AtmBy_wAAAAM/little-positivity.gif" width="150" /></td>
+    <td><img src="https://media1.tenor.com/m/IbngBalmiUQAAAAd/jesus-loves-you.gif" width="150" /></td>
+  </tr>
+</table>
 
 <img src = "https://media.tenor.com/uSG83KneGQAAAAAj/little-pills.gif" />
 <img src = "https://media.tenor.com/vX65AtmBy_wAAAAM/little-positivity.gif" />
