@@ -3,7 +3,7 @@
 </p>
 
 
-<img src ="https://tenor.com/p3CchqSXnKC.gif" />
+<img src ="https://tenor.com/en-GB/view/little-pills-pill-mintmake-sticker-gif-13340151227176851712" />
 
 
 <img src="https://raw.githubusercontent.com/DavidMakwetta/snk/output/github-contribution-grid-snake-dark.svg" />
